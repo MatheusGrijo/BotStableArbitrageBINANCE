@@ -1,0 +1,14 @@
+C:\programas\anubis\USDBOT\obj\Debug\USDBOT.csproj.CoreCompileInputs.cache
+C:\programas\anubis\USDBOT\bin\Debug\USDBOT.exe.config
+C:\programas\anubis\USDBOT\bin\Debug\USDBOT.exe
+C:\programas\anubis\USDBOT\bin\Debug\USDBOT.pdb
+C:\programas\anubis\USDBOT\bin\Debug\netstandard.dll
+C:\programas\anubis\USDBOT\bin\Debug\Newtonsoft.Json.dll
+C:\programas\anubis\USDBOT\bin\Debug\RestSharp.dll
+C:\programas\anubis\USDBOT\bin\Debug\CryptoExchange.Net.dll
+C:\programas\anubis\USDBOT\bin\Debug\WebSocket4Net.dll
+C:\programas\anubis\USDBOT\bin\Debug\SuperSocket.ClientEngine.dll
+C:\programas\anubis\USDBOT\bin\Debug\RestSharp.xml
+C:\programas\anubis\USDBOT\obj\Debug\USDBOT.exe
+C:\programas\anubis\USDBOT\obj\Debug\USDBOT.pdb
+C:\programas\anubis\USDBOT\obj\Debug\USDBOT.csprojResolveAssemblyReference.cache

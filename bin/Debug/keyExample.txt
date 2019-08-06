@@ -1,0 +1,6 @@
+{
+ key : "icdK0l8g3Ipnu8UpQ3xB",
+ secret: "Q0XQ5j5sFYUVT",
+ buy: 0.9965,
+ sell: 0.9995
+}
